@@ -1,5 +1,15 @@
 <?php
-
+/**
+ * PHP FLood Protection
+ *
+ * Bu dosya PHP FLood Protection'nın bir parçasıdır.
+ *
+ * @category   PHP
+ * @package    floodprotection
+ * @author     Özgür Şahin <0zgur>
+ * @license    https://raw.githubusercontent.com/02gur/PHP-Flood-Protection/main/LICENSE  APACHE Lisansı
+ * @link       https://raw.githubusercontent.com/02gur/PHP-Flood-Protection
+ */
 class throwExction{
 }
 class RequestLimiter
